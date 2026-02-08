@@ -19,7 +19,7 @@ I’ve worked on both team-based and personal projects, taken on roles like Team
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass)
+![SCSS](https://img.shields.io/badge/SCSS-FF0000?style=flat-square&logo=sass)
 
 ---
 
