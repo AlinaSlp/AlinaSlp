@@ -28,16 +28,19 @@ I’ve worked on both team-based and personal projects, taken on roles like Team
 ### 🪑 [Mebleria — furniture that feels modern](https://alinaslp.github.io/QuantumJS)
 
 **Team project | Team Lead / Developer**
+
 A full-featured furniture web application combining dynamic UI, API integration, and responsive design.
 
 ### 🧘 [FlowBloom — balance, but digital](https://alisapagan.github.io/FlowBloom)
 
 **Team project | Scrum Master / Developer**
+
 Is a responsive web application for exploring yoga programs, classes, instructors, and pricing plans. The site provides a clear overview of courses, testimonials, and contact options, aimed at promoting yoga sessions and engaging users in wellness activities.
 
 ### 📝 [NoteHub — when thoughts need structure](https://08-zustand-eight-tau.vercel.app)
 
 **Personal Full-Stack Project**
+
 Full-stack application for creating, editing, deleting, and filtering personal notes with persistent data storage.
 
 ---
