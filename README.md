@@ -1,112 +1,74 @@
-👋 Hi, I’m Alina Slipenka
-A bit about me
+# 👋 Hey, I’m Alina Slipenka
 
-Junior Full-Stack Developer who genuinely enjoys turning ideas into working products.
-I work mostly with JavaScript, React, and Node.js, care about clean structure, readable code, and interfaces that make sense to real users. I’ve worked on both team and personal projects, know how Agile teams function, and I’m not afraid to take responsibility when something needs to be done (or fixed).
+Junior Full-Stack Developer | JavaScript • React • Node.js
 
-I learn fast, ask questions when it matters, and prefer solutions that are simple, scalable, and maintainable — even if they take a bit longer to think through.
+---
 
-🧰 Tech Stack
+I enjoy the moment when an idea turns into something real, clickable, and useful.
+I focus on clean structure, readable code, and interfaces that make sense to users — not just to developers.
 
-Frontend:
-JavaScript (ES6+), React, Redux, HTML5, CSS3, SCSS, Responsive & Adaptive Design
+I’ve worked on both team-based and personal projects, taken on roles like Team Lead and Scrum Master, and feel comfortable owning features from idea to delivery. I learn fast, adapt quickly, and care about building things that scale without becoming messy.
 
-Backend:
-Node.js, Express, REST API
+---
 
-Databases:
-MongoDB
+## 🧠 What I work with
 
-Tools:
-Git, GitHub, Vite, Webpack, Parcel
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-18.2-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass)
 
-💻 Featured Projects
-🪑 Mebleria
+---
 
-Team project | Team Lead / Developer
-🔗 Live Demo
+## 🚀 Projects I’m proud of
 
-🔗 GitHub
+### 🪑 [Mebleria — furniture that feels modern](https://alinaslp.github.io/QuantumJS)
 
-A modern furniture web application with dynamic content and API integration.
-I worked on both development and coordination within the team.
+**Team project | Team Lead / Developer**
+A full-featured furniture web application combining dynamic UI, API integration, and responsive design.
 
-Highlights:
+### 🧘 [FlowBloom — balance, but digital](https://alisapagan.github.io/FlowBloom)
 
-REST API integration with dynamic rendering of product cards
+**Team project | Scrum Master / Developer**
+Is a responsive web application for exploring yoga programs, classes, instructors, and pricing plans. The site provides a clear overview of courses, testimonials, and contact options, aimed at promoting yoga sessions and engaging users in wellness activities.
 
-Filtering, pagination, and “Load more” functionality
+### 📝 [NoteHub — when thoughts need structure](https://08-zustand-eight-tau.vercel.app)
 
-Product details in modal windows
+**Personal Full-Stack Project**
+Full-stack application for creating, editing, deleting, and filtering personal notes with persistent data storage.
 
-Sliders for popular products and customer feedback
+---
 
-Order form with validation and POST requests
+## 🗣️ Languages
 
-Fully responsive layout (mobile → desktop)
+![English](https://img.shields.io/badge/English-PreIntermediate-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-Tech: HTML5, SCSS, JavaScript, REST API, Swiper.js, iziToast, Async/Await
+---
 
-🧘 FlowBloom
+## 📊 GitHub Stats
 
-Team project | Scrum Master / Developer
-🔗 Live Demo
+![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaSlp&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaSlp&layout=compact&theme=tokyonight)
 
-🔗 GitHub
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlinaSlp&theme=tokyonight)
 
-Responsive landing page for a yoga platform focused on clarity and user engagement.
+---
 
-What I did:
+## 📬 Let’s connect
 
-Built and styled navigation with smooth scrolling
+- 💼 [LinkedIn](https://www.linkedin.com/in/alina-slp)
+- 🧑‍💻 [GitHub](https://github.com/AlinaSlp)
+- ✉️ Email: a.slipenka@gmail.com
 
-Implemented modal windows for sessions and class details
+---
 
-Added interactivity with JavaScript
+## ✨ A few extra facts
 
-Ensured responsive behavior across devices
-
-Helped keep the UI clean, accessible, and consistent
-
-Tech: HTML5, SCSS, JavaScript, Modal Windows
-
-📝 NoteHub
-
-Personal project | Full-stack
-🔗 Live Demo
-
-🔗 GitHub
-
-A full-stack notes application for creating, editing, filtering, and storing personal notes.
-
-Features:
-
-CRUD operations for notes
-
-Filtering and state management
-
-Persistent storage with backend integration
-
-Tech: React, Node.js, Express, MongoDB, REST API, CSS Modules
-
-🗣️ Languages
-
-🇺🇦 Ukrainian — Native
-
-🇬🇧 English — Pre-Intermediate
-
-📫 How to reach me
-
-💼 LinkedIn
-
-💻 GitHub
-
-✉️ Email: a.slipenka@gmail.com
-
-✨ Extra
-
-Open to junior developer opportunities
-
-Interested in real projects, teamwork, and growth
-
-Always improving — both code and myself
+🎯 Open to Junior Frontend / Full-Stack roles
+🤝 Comfortable working in Agile teams
+📈 Always learning and improving
+☕ Debugs better after coffee (tested)
