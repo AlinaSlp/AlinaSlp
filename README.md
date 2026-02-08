@@ -17,7 +17,7 @@ I’ve worked on both team-based and personal projects, taken on roles like Team
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-18.2-blue?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![HTML5](https://img.shields.io/badge/HTML5-32CD32?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![SCSS](https://img.shields.io/badge/SCSS-00BFFF?style=flat-square&logo=sass)
 
