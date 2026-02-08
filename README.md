@@ -54,9 +54,6 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 
 ## 📊 GitHub Stats
 
-![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaSlp&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaSlp&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlinaSlp&theme=tokyonight)
 
 ---
@@ -72,6 +69,9 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 ## ✨ A few extra facts
 
 🎯 Open to Junior Frontend / Full-Stack roles
+
 🤝 Comfortable working in Agile teams
+
 📈 Always learning and improving
+
 ☕ Debugs better after coffee (tested)
