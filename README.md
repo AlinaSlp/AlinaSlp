@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Alina Slipenka
+## 👋 Hey, I’m Alina Slipenka
 
-Junior Full-Stack Developer | JavaScript • React • Node.js
+# Junior Full-Stack Developer | JavaScript • React • Node.js
 
 ---
 
@@ -11,7 +11,7 @@ I’ve worked on both team-based and personal projects, taken on roles like Team
 
 ---
 
-## 🧠 What I work with
+### 🧠 What I work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat-square&logo=typescript)
@@ -23,21 +23,21 @@ I’ve worked on both team-based and personal projects, taken on roles like Team
 
 ---
 
-## 🚀 Projects I’m proud of
+### 🚀 Projects I’m proud of
 
-### 🪑 [Mebleria — furniture that feels modern](https://alinaslp.github.io/QuantumJS)
+#### 🪑 [Mebleria — furniture that feels modern](https://alinaslp.github.io/QuantumJS)
 
 **Team project | Team Lead / Developer**
 
 A full-featured furniture web application combining dynamic UI, API integration, and responsive design.
 
-### 🧘 [FlowBloom — balance, but digital](https://alisapagan.github.io/FlowBloom)
+#### 🧘 [FlowBloom — balance, but digital](https://alisapagan.github.io/FlowBloom)
 
 **Team project | Scrum Master / Developer**
 
 Is a responsive web application for exploring yoga programs, classes, instructors, and pricing plans. The site provides a clear overview of courses, testimonials, and contact options, aimed at promoting yoga sessions and engaging users in wellness activities.
 
-### 📝 [NoteHub — when thoughts need structure](https://08-zustand-eight-tau.vercel.app)
+#### 📝 [NoteHub — when thoughts need structure](https://08-zustand-eight-tau.vercel.app)
 
 **Personal Full-Stack Project**
 
@@ -45,20 +45,20 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 
 ---
 
-## 🗣️ Languages
+### 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-PreIntermediate-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlinaSlp&theme=tokyonight)
 
 ---
 
-## 📬 Let’s connect
+### 📬 Let’s connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alina-slp)
 - 🧑‍💻 [GitHub](https://github.com/AlinaSlp)
@@ -66,7 +66,7 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 
 ---
 
-## ✨ A few extra facts
+### ✨ A few extra facts
 
 🎯 Open to Junior Frontend / Full-Stack roles
 
